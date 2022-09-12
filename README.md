@@ -1,4 +1,4 @@
-# CS 290 MERN App
+# CS 290 Web Development Final Project
 
 MERN full stack single page application <br />
 Grade Received: A 
