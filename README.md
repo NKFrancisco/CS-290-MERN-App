@@ -1,6 +1,6 @@
 # CS 290 MERN App
 
-MERN full stack single page application
+MERN full stack single page application <br />
 Grade Received: A 
 
 ## How to Install 
